@@ -56,7 +56,7 @@ def calorie():
 
 # image_to_text()
 
-# main()
+main()
 
 calorie()
 
